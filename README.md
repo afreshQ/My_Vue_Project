@@ -1,2 +1,2 @@
 # My_Vue_Project
-第一个vue项目
+npm run dev 打开
